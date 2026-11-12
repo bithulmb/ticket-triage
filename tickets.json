@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "customer": "Asha",
+    "text": "I was charged twice for one order"
+  },
+  {
+    "id": 2,
+    "customer": "Ben",
+    "text": "My parcel has not arrived"
+  },
+  {
+    "id": 3,
+    "customer": "Chen",
+    "text": "Can I get a refund for the blue mug?"
+  },
+  {
+    "id": 4,
+    "customer": "Dara",
+    "text": "How do I change my password?"
+  },
+  {
+    "id": 5,
+    "customer": "Eli",
+    "text": "The parcel arrived but the box was crushed"
+  }
+]
